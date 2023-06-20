@@ -1,4 +1,4 @@
-# forwardDemand
+# utopia4All
 a world UI to update and fix capitalism
 
 Primary element is an interface in which we can aggregate what we really want and then reverse-engineer that, and align our training and work plus necessary resources to make what we have determined we really want. End world hunger. Get paid and work only as much as really needed. Live our best possible lives.
