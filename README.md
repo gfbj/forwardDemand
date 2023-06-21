@@ -4,16 +4,19 @@ a world UI to update and fix capitalism
 Primary element is an interface in which we can 
 1) aggregate what we really want - all of us, and go far beyond just needs
 2) then reverse-engineer that pooled "basket" of needs, wants and desires
-3) align our training and work
-4) align necessary resources
-5) make what we have determined we really want.
-End world hunger. Get paid and work only as much as really needed. Live our best possible lives.
+3) design best ways to achieve that basket
+4) call ourselves to the new set of work needed to implement the designs
+5) align our training to be able to do that new set of work
+6) implement support systems to facilitate being able to switch to that new set of work
+7) align necessary resources
+8) make what we have determined we really want.
+End world hunger. Get paid and work only as much as really needed. Live our best possible lives. Enable such contentment that we no longer have any cause to support any call to war. Stop wasting money on military.
 
 Sunlight bathes the Earth in so much energy that what falls on only a small percentage of the Earth's surface could power every manner of energy consumed today. However, the sun's energy is very diffuse and to successfully harvest enough energy to be usably scalable takes aligning it to be focused. (We haven't done nearly enough to switch to renewables, but there are proof-of-concept collection facilities.)
 
 In the same way, we as world inhabitants, have an incredible amount of power but it is very diffuse. What we buy essentially is a confirmation of what the economy did right, but it is rearview. The economy has to have Supply first for us to Demand, and it's risky to put Supply out - it may or might not get bought. But ultimately, we have to buy goods and services before the economy "knows" (gets affirmative feedback) that it got it right. Until we actually spend our money, we have the power. Analogously, what work we do - pick among job offers, go get training to do a different job, etc. - is a confirmation that the economy is asking for the right work. So we have a power, but as individuals we have little say in "what's out there".
 
-It is entrepreneurs, corporations, businesses, investors and banks (corbs) that have been the socioeconomic entities that have done the focusing of our choices - they take a look at what we have bought up to now, how much money we have, and what we are likely to buy, and then they decide to make (or not make) goods and services going forward to match their guesses. Their survival depends on their guessing right.
+It is entrepreneurs, corporations, businesses, investors and banks (corbs) that have been the socioeconomic entities that have done the focusing of our choices - they take a look at what we have bought up to now, how much money we have, and what we are likely to buy, and then they decide to make (or not make) goods and services going forward to match their guesses. Their survival depends on their guessing right. That entails a lot of risk, stress, waste of product not bought, bankruptcy, etc.
 
 The problem with this model is that corbs have profit as their goal, which would be fine if they were all small such that no one entity could dominate its market. But the endgame of capitalism is monopoly, not utoipa, and with monopoly come some very unpleasant behaviors - the ability to price gouge, buying out and shelving competition, infiltrating and controling the writing of laws governing how the corbs operate, SLAPPs, etc. So we need a way to align ourselves so good things happen for people rather than predatory profits for monolithic corbs.
 
