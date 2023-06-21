@@ -1,7 +1,7 @@
 # utopia4All
 a world UI to update and fix capitalism
 
-Primary element is an interface in which we can 
+Primary elements will form an interface in which we can 
 1) aggregate what we really want - all of us, and go far beyond just needs
 2) then reverse-engineer that pooled "basket" of needs, wants and desires
 3) design best ways to achieve that basket
