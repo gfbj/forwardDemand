@@ -10,6 +10,7 @@ Primary element is an interface in which we can
 6) implement support systems to facilitate being able to switch to that new set of work
 7) align necessary resources
 8) make what we have determined we really want.
+
 End world hunger. Get paid and work only as much as really needed. Live our best possible lives. Enable such contentment that we no longer have any cause to support any call to war. Stop wasting money on military.
 
 Sunlight bathes the Earth in so much energy that what falls on only a small percentage of the Earth's surface could power every manner of energy consumed today. However, the sun's energy is very diffuse and to successfully harvest enough energy to be usably scalable takes aligning it to be focused. (We haven't done nearly enough to switch to renewables, but there are proof-of-concept collection facilities.)
