@@ -3,11 +3,11 @@ a world UI to update and fix capitalism
 
 Primary elements will form an interface in which we can 
 1) aggregate what we really want - all of us, and go far beyond just needs
-2) then reverse-engineer that pooled "basket" of needs, wants and desires
+2) reverse-engineer that pooled "basket" of needs, wants and desires
 3) design best ways to achieve that basket
 4) call ourselves to the new set of work needed to implement the designs
 5) align our training to be able to do that new set of work
-6) implement support systems to facilitate being able to switch to that new set of work
+6) implement support systems to facilitate being able to switch to and to be effective in that new set of work
 7) align necessary resources
 8) make what we have determined we really want.
 
